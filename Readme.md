@@ -1,5 +1,5 @@
 ﻿
-# This is Q Practice
+# This is Q Cheatsheet
 ## Philosophy
 ### 1. Interpreted. 
 Q is interpreted, not compiled. The interpreter's eval and parse routines are exposed so that you can dynamically generate code in a controlled manner.
